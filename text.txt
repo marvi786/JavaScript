@@ -1,0 +1,24 @@
+
+js was created in 1996 by netscape company
+in 1997, js was submitted to ecma international to give in some name
+standard name became ECMA Script
+ES6:
+in 2015: ECMAScript decided to make anual version of it. ES6 founded
+in 2016: ES7
+in 2017 : ES8
+and so on.
+some browsers may not support these versions so for that we have a babel
+open source which is equivalent to ES5.
+just to convert js file from ES6 to ES5 and it is a transpiler.
+
+LET AND VAR:
+	var is function scoped and let is block scoped.
+	const is used to make the value constant so that no one can chnge it
+ define a function with one variable with let and var type.
+
+
+
+
+NODE JS TUT
+
+RUNTIME TO RUN AT CONSOLE
